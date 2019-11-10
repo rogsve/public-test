@@ -1,1 +1,3 @@
 Testar att skapa en fil
+
+Gör nu en ändring i master för att se om git fetch och git merge hämtar upp denna ändring utan att jag behöver gå omvägen till att byta till master
